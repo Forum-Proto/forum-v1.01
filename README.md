@@ -1,5 +1,4 @@
-<img width="1182" alt="13forum" src="https://github.com/Forum-Proto/forum-v1.01/assets/66848339/640104d3-7556-4984-8bb7-34c4140c5448"># forum-v1.01
-Unifying Tech Builders to learn, create, exchange ideas, tackle challenges, and innovate, while also facilitating  raising VC funds.
+# Unifying Tech Builders to learn, create, exchange ideas, tackle challenges, and innovate, while also facilitating  raising VC funds.
 
 <img width="1182" alt="1forum" src="https://github.com/Forum-Proto/forum-v1.01/assets/66848339/3e193f67-d107-4b8a-bb70-3f59d05a3536">
 
